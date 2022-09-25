@@ -30,11 +30,8 @@ This is the second React project of the Scrimba course.
 
 ## What I learned
 
-- Why React?
-- JSX
-- Custom components
-- Styling
-- Static Pages
+- Props
+- Mapping data
 
 ## Contacts
 
