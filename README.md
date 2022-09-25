@@ -26,7 +26,7 @@ This is the second React project of the Scrimba course.
 
 ## Links
 
-- Live Site URL: [https://digital-business-card-ap.netlify.app/]
+- Live Site URL: [https://my-travel-journal-ap.netlify.app/]
 
 ## What I learned
 
